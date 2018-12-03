@@ -73,7 +73,7 @@
                 <form action="#" method="post">
                     <input type="number" class='form-control mb-2' min='100000' max='999999' name='roll' placeholder='Enter Roll.'>
                     <input type="number" class='form-control mb-2' min='100000' max='999999' name='reg' placeholder='Enter Reg.'>
-                    <input type="submit" class='btn btn-primary btn-lg btn-block mt-4' name='submit'>
+                    <input type="submit" class='btn btn-primary btn-lg btn-block mt-4' name='submit' value='Submit'>
                 </form>
             </div>
             <footer style="margin-top:293px;">
